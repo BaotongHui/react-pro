@@ -1,3 +1,3 @@
-# react-pro
-学习REACT
+# webpack2-react
+webpack2搭建react项目
 
